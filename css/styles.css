@@ -158,6 +158,14 @@ body {
     color: rgba(255, 255, 255, 0.6);
 }
 
+.footer-addres:hover, 
+.footer-addres:focus,
+.footer-email:hover,
+.footer-email:focus,
+.footer-tel:hover, 
+.footer-tel:focus  {
+    color: var(--accent-color);
+}
 /*---------------------MAIN-PORTFOLIO---------------------*/
 
 .portfolio-nav-btn {
