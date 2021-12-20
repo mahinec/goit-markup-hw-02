@@ -67,6 +67,7 @@ body {
     background-color: #2F303A;
 }
 .solutions-btn {
+    font-family: inherit;
     background-color: var(--accent-color);
     cursor: pointer;
     font-size: 16px;
@@ -183,6 +184,7 @@ body {
 /*---------------------MAIN-PORTFOLIO---------------------*/
 
 .portfolio-nav-btn {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
